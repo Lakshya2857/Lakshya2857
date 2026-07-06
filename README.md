@@ -34,4 +34,4 @@
 
 [LinkedIn]((https://www.linkedin.com/in/lakshya-sangwan-50216037a/))
 
-[Email](lakshyasangwan3111@gmail.com)
+[Email](mailto:lakshyasangwan3111@gmail.com)
