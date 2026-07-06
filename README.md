@@ -23,11 +23,6 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-## GitHub Stats
-
-![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshya2857&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya2857&layout=compact&theme=tokyonight)
 
 ## Connect With Me
 
@@ -35,3 +30,9 @@
 [LinkedIn](https://www.linkedin.com/in/lakshya-sangwan-50216037a/)
 
 [Email](mailto:lakshyasangwan3111@gmail.com)
+
+
+
+## GitHub Stats
+
+
