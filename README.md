@@ -26,13 +26,13 @@
 ## GitHub Stats
 
 
-![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshya2857&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya2857&layout=compact)
 
 ## Connect With Me
 
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/lakshya-sangwan-50216037a/))
+[LinkedIn]((https://www.linkedin.com/in/lakshya-sangwan-50216037a/))
 
 [Email](lakshyasangwan3111@gmail.com)
