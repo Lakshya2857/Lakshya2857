@@ -25,10 +25,9 @@
 
 ## GitHub Stats
 
+![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshya2857&show_icons=true&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshya2857&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya2857&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya2857&layout=compact&theme=tokyonight)
 
 ## Connect With Me
 
